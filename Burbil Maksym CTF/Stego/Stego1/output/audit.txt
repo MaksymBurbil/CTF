@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Apr 10 13:19:14 2019
+Invocation: foremost stego1.zip 
+Output directory: /root/Documents/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: stego1.zip
+Start: Wed Apr 10 13:19:14 2019
+Length: 299 KB (306780 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.zip 	      34 KB 	          0 	 
+1:	00000000.png 	     299 KB 	        226 	  (640 x 640)
+Finish: Wed Apr 10 13:19:14 2019
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Apr 10 13:19:14 2019
